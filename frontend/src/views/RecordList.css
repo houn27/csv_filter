@@ -1,0 +1,41 @@
+.list-main{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.list-main-content{
+    width: 1000px;
+    background-color: white;
+    min-height: calc(100vh - 100px);
+    padding: 20px;
+}
+
+.list-item{
+    margin: 15px 10px;
+}
+
+.list-item-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-item-date{
+    color: gray;
+}
+
+/* pad style */
+@media screen and (min-width: 750px) and (max-width: 1368px){
+    .list-main{
+
+        padding-top: 10px;
+    }
+}
+
+/* mobile style */
+@media screen and (max-width: 750px){
+    .list-main{
+
+        padding-top: 10px;
+    }
+}

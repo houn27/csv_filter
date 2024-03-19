@@ -1,0 +1,12 @@
+.detail-main{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.detail-main-content{
+    width: 1200px;
+    background-color: white;
+    min-height: calc(100vh - 100px);
+    padding-top: 30px;
+}

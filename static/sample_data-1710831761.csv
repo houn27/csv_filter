@@ -1,0 +1,6 @@
+Name,Birthdate,Score,Grade,Temp,Plate,Last_sign(ms),Last_sign(s),Reg_date,Is_student,Is_grad,Complex
+Alice,1990-01-01,90.0,A,32.3,BHC27M,22/01/2024,01/06/2023,2020-01-01,True,True,(1+2j)
+Bob,1991-02-02,75.0,B,33.4,SHZ89,28/02/2024,01/06/2023,2005-01-01,True,False,(3-4j)
+Charlie,1992-03-03,85.0,A,39.9,99,22/01/2024,04/06/2023,2010-03-28,True,False,(5+6j)
+David,1993-04-04,70.0,B,27.0,DD85SD,,,,,,(5+0j)
+Eve,1994-05-05,,A,12.0,SE76DM,22/01/2024,01/06/2023,2030-01-01,True,True,(2-3j)
